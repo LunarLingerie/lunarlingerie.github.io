@@ -1,0 +1,34 @@
+.profile-pic{
+	width:60%;
+
+}
+
+.lunar-title {
+	color: #bc98e2;
+	font-family: Snell Roundhand;
+	font-size: 40px;
+}
+
+.card-text{
+	color: #f2f268;
+	font-family: Snell Roundhand;
+	font-size:25px;
+}
+
+body{
+	background-color: #ebdcf2
+}
+
+p {
+	font-size:10;
+	color: #bc98e2;
+}
+
+h4 {
+	color: #f2f268;
+}
+
+h1 {
+	color: #bc98e2;
+	font-family: Snell Roundhand;
+}
